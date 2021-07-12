@@ -1,0 +1,14 @@
+{
+  "name": "mrs.arya",
+  "version": "12.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Mehmet Ali Yılgın",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
